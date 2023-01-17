@@ -2,6 +2,12 @@
 ## 버전
 - node: 18.12.1
 
+## 기술 스택
+- next.js
+- yarn
+- json-server
+- react-bootstrap
+
 ## 실행방법
 ### 설치
 yarn과 json-sever를 설치한다.
